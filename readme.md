@@ -11,7 +11,7 @@
 
 
 ## 安装验证码
-composer require mews/captcha
+--composer require mews/captcha
 
 ##运行以下命令生成配置文件 config/captcha.php
-php artisan vendor:publish --provider='Mews\Captcha\CaptchaServiceProvider' 
+--php artisan vendor:publish --provider='Mews\Captcha\CaptchaServiceProvider' 
