@@ -10,7 +10,7 @@
 ## 验证码类
 - [--composer require mews/captcha]
 
-##运行以下命令生成配置文件 config/captcha.php
+## 运行以下命令生成配置文件 config/captcha.php
 - [php artisan vendor:publish --provider='Mews\Captcha\CaptchaServiceProvider']
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
